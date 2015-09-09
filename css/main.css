@@ -1,8 +1,70 @@
 html{
-  background-color: #00f;
+  background-color: lightgrey;
 }
 
+body{
+  margin: 0;
+}
+
+h2{
+  font-family: arial;
+  margin: 0.5rem;
+  margin-top: 1.5rem;
+  }
+
+h3{
+  font-family: arial;
+  margin: 0.5rem;
+  margin-top: 1.5rem;
+  }
+
 h1{
-  font-type: arial;
-  font-color: darkgrey;
+  font-family: arial;
+  margin: 0.5rem;
+  text-align: center;
+}
+
+p{
+  font-family: arial;
+  margin: 0.5rem;
+}
+
+ol{
+  font-family: arial;
+  margin: 0.5rem;
+  list-style-stype: none;
+}
+
+li {
+  display: inline;
+  background: darkgrey;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+nav ul{
+  background-color: red;
+}
+
+a:hover {
+  color: white;
+}
+
+dl {
+  font-family: arial;
+  margin: 0.5rem;
+}
+
+dt{
+  font-family: arial;
+  margin: 0.5rem;
+  font-weight: bold;
+}
+
+footer{
+  font-family: arial;
+
 }
