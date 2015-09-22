@@ -174,3 +174,13 @@ figcaption{
    padding-left: 3rem;
    line-height: 0.5rem;
  }
+
+main {
+  float: left;
+  width: 50%
+}
+
+aside {
+  float: right;
+  width: 50%
+}
