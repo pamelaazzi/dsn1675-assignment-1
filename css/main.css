@@ -95,12 +95,16 @@ a:hover {
 dl {
   font-family: arial;
   margin: 1rem;
+  font-size: 0.7rem;
+  line-height: 0.2rem;
 }
 
 dt{
   font-family: arial;
   margin: 1rem;
   font-weight: bold;
+  font-size: 0.8rem;
+  margin-bottom: 0.1rem;
 }
 
 footer{
@@ -108,6 +112,7 @@ footer{
   font-size: 0.5rem;
   padding: 1em;
   text-align: center;
+  line-height: 0.1rem;
 }
 
 figure{
@@ -135,6 +140,10 @@ figcaption{
   margin-bottom: 2rem;
   vertical-align: middle;
   display: inline-block;
+}
+
+li {
+  font-family: arial;
 }
 
 @media only screen and (min-width:21em) {
@@ -172,7 +181,7 @@ figcaption{
  footer {
    text-align: left;
    padding-left: 3rem;
-   line-height: 0.5rem;
+   line-height: 0.1rem;
  }
 
 main {
