@@ -214,6 +214,10 @@ ul {
   width: 30%;
 }
 
+figcaption {
+  font-size: 7rem;
+}
+
 }
 
 @media print {
